@@ -1,20 +1,26 @@
-http://localhost/KIT-Shopping/order_confirmation.php
+http://localhost/KIT-Shopping
 
 Project Duration
-February 2023 – June 2023
+February 2023 – May 2024
 
 Group Members and Their Contributions
-Rohan Yadav
-Role: Database Developer
-Contribution:
-Rohan Yadav was responsible for designing, developing, and managing the project’s database system using SQL. His key tasks included creating efficient database schemas, writing complex queries, managing data integrity, and ensuring smooth interaction between the backend and the database.
+1)Rohan Yadav
+Role: Database Developer, CSS
+Contribution: Rohan Yadav was responsible for designing, developing, and managing the project’s database system using SQL. 
+His key tasks included creating efficient database schemas, writing complex queries, managing data integrity,
+and ensuring smooth interaction between the backend and the database. Additionally, he contributed to styling elements of the website using CSS,
+ensuring a consistent and visually appealing layout.
 
-Pankaj Jadhav
+2)Rahul Kanshetti
 Role: Front-End Developer
 Contribution:
-Pankaj Jadhav focused on building the front-end interface using PHP, CSS, and JavaScript. He handled the visual layout, responsive design, and integration of dynamic content to ensure an intuitive and user-friendly experience.
+Rahul Kanshetti focused on building the front-end interface using PHP, CSS, and JavaScript.
+He handled the overall visual layout, implemented responsive design features, and integrated dynamic content to provide a user-friendly experience.
+His work ensured that the website was accessible and functional across various devices and browsers.
 
-Sourabh Virkar
+3)Sourabh Virkar
 Role: Backend and Scripting Developer
 Contribution:
-Sourabh Virkar contributed to both the JavaScript and PHP components of the project. He implemented dynamic behaviors, validated user inputs, and managed server-side logic to facilitate seamless communication between the user interface and the database
+Sourabh Virkar worked extensively with JavaScript and PHP to manage backend operations and scripting functionalities. 
+He implemented dynamic behaviors on the client side, handled server-side logic, validated user inputs, and ensured seamless communication between the user interface and the database,
+enhancing the functionality and performance of the overall system.
