@@ -1,1 +1,20 @@
 http://localhost/KIT-Shopping/order_confirmation.php
+
+Project Duration
+February 2023 – June 2023
+
+Group Members and Their Contributions
+Rohan Yadav
+Role: Database Developer
+Contribution:
+Rohan Yadav was responsible for designing, developing, and managing the project’s database system using SQL. His key tasks included creating efficient database schemas, writing complex queries, managing data integrity, and ensuring smooth interaction between the backend and the database.
+
+Pankaj Jadhav
+Role: Front-End Developer
+Contribution:
+Pankaj Jadhav focused on building the front-end interface using PHP, CSS, and JavaScript. He handled the visual layout, responsive design, and integration of dynamic content to ensure an intuitive and user-friendly experience.
+
+Sourabh Virkar
+Role: Backend and Scripting Developer
+Contribution:
+Sourabh Virkar contributed to both the JavaScript and PHP components of the project. He implemented dynamic behaviors, validated user inputs, and managed server-side logic to facilitate seamless communication between the user interface and the database
